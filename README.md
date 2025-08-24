@@ -32,7 +32,7 @@ It demonstrates how to create a responsive layout with a **header, blog cards, a
 The page layout includes:
 - **Header** → ![Logo + Nav](images/logo-nav.png)  
 - **Main content** → ![Blog cards showcasing plant-themed posts](images/cards-display.png)  
-- **Footer** → [Subscription form + site info](images/footer.png) 
+- **Footer** → ![Subscription form + site info](images/footer.png) 
 
 ---
 
